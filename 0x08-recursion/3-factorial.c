@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * actorial - find factorial of n
- * @n: Number
- * Return: factorial of number, -1 if negative n
+ * factorial - calculates the factorial of a given number.
+ * @n: given number
+ * Return: factorial
  */
 
 int factorial(int n)
